@@ -53,6 +53,9 @@ const transformMach = async () => {
     await (transformMachSubPackages(subpackageName, ddConfig))
   }
 }
+
+dwqklldwqmlkdqwmkl
+
 /**
  * 操作变更mach模版
  * 外卖mach模版->团子包mach模版
