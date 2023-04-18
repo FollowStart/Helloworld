@@ -6,6 +6,7 @@ module.exports = function mtsubProcessNavigator(options, {isMt}) {
       if (!isMt) {
         return node;
       }
+      dwqnkdwnqjkdwq
       // 非外部跳转 (target != miniProgram) 情况 的 navigator
       if (node.tag === 'navigator' && node.attrs && node.attrs['target'] !== 'miniProgram') {
         const oldUrl = node.attrs['url'];
